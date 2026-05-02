@@ -64,6 +64,9 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+
 https://drive.google.com/file/d/17qNRuvLB02ZyMIlgcjGABmRl_CftWToq/view?usp=sharing 
 
 Result:
+
+Thus the experiment to develop a comprehensive report for the given exercises has been successfully completed
